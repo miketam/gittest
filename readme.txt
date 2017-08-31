@@ -5,4 +5,4 @@ Git is ok
 
 Git has a multable index called state.
 
-Git tracks changes.
+Git tracks changes of files.
